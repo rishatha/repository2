@@ -1,0 +1,4 @@
+this is a new branch file
+this line causes conflict
+
+here is a new line
