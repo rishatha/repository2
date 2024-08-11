@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 this is a new branch file
 here is a new line
+=======
+>>>>>>> 1058f2fb9a397a051d6a815642763599f29593ed
